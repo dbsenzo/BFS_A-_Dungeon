@@ -1,7 +1,8 @@
-** SAE 2.02 - Comparaison d’approches algorithmiques **
+# SAE 2.02 - Comparaison d’approches algorithmiques
+
+Lors de la SAE 2.02, nous avons dû mettre en oeuvre un système de Pathfinding en utilisant deux algorithmes, A* et BFS.
 
 # Présentation
-Lors de la SAE 2.02, nous avons dû mettre en oeuvre un système de Pathfinding en utilisant deux algorithmes, A* et BFS.
 
 Il s’agissait de trouver le chemin le plus court entre 2 salles d’un donjon. 
 
