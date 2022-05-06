@@ -10,15 +10,15 @@ Pour cela, la résolution à être réalisée sur une version “graphe” corre
 # Aspects Techniques
 
 Technologies utilisées :
-  Java & JUnits
-  Eclipse
-  GitHub
-  Google Sheets ( Analyses )
-  Canva ( Rapport )
+  - Java & JUnits
+  - Eclipse
+  - GitHub
+  - Google Sheets ( Analyses )
+  - Canva ( Rapport )
   
 Algorythmes utilisées:
-  Breadth-first search
-  AStar
+  - Breadth-first search
+  - AStar
 
 # Collaborateurs
   @dbsenzo & BOUHAMIDI Samy
