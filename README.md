@@ -1,4 +1,4 @@
-# SAE 2.02 - Comparaison d’approches algorithmiques, Exploration de donjons
+** SAE 2.02 - Comparaison d’approches algorithmiques **
 
 # Présentation
 Lors de la SAE 2.02, nous avons dû mettre en oeuvre un système de Pathfinding en utilisant deux algorithmes, A* et BFS.
