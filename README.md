@@ -11,7 +11,7 @@ Pour cela, la résolution à être réalisée sur une version “graphe” corre
 # Aspects Techniques
 
 Technologies utilisées :
-  - Java & JUnits
+  - Java
   - Eclipse
   - GitHub
   - Google Sheets ( Analyses )
